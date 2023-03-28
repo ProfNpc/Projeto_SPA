@@ -39,6 +39,7 @@
     font-size: medium;
     min-height: 50px;
     width: 400px;
+    background-color: rgb(213, 144, 223);
 }
 
 .btn-custom:hover {
