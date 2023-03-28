@@ -1,0 +1,13 @@
+.main-produtos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+.main-produtos img{
+    border-radius: 10%;
+}
+
+/* .main-produtos p{
+    border-radius: 10%;
+} */

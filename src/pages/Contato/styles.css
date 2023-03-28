@@ -1,0 +1,49 @@
+.contato {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 145px);
+}
+
+.contato form {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 35px;
+}
+
+.contato form input {
+    margin: 10px 0;
+    padding: 5px 15px;
+    height: 35px;
+    font-size: medium;
+    width: 400px;
+}
+
+.contato form textarea {
+    margin: 10px 0;
+    padding: 5px 15px;
+    height: 100px;
+    font-size: medium;
+    width: 400px;
+    resize: none;
+}
+
+.btn-custom {
+    border-radius: 5px;
+    border: 1px solid;
+    height: 50px;
+    font-size: medium;
+    min-height: 50px;
+    width: 400px;
+}
+
+.btn-custom:hover {
+    cursor: pointer;
+    background-color:gray;
+    border-color: #fff;
+    color: #fff;
+}

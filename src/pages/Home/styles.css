@@ -1,0 +1,55 @@
+.quadro {
+    border: 2px solid rgb(189, 183, 183);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    max-width: 1200px!important;
+    height: calc(100vh - 200px); 
+    border-radius: 2%;
+  }
+
+.main-home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 145px);
+}
+
+.main-home img {
+    width: 450px;
+    border-radius: 2%;
+}
+
+.main-home div {
+    max-width: 500px;
+    padding-left: 3%;
+}
+
+.main-home div h1{
+    margin: 20px 0;
+    color: rgb(213, 144, 223);
+    text-align: center;
+}
+
+.main-home div p{
+    margin: 20px 0;
+    line-height: 1.8;
+    color: rgb(116, 116, 121);
+    padding-right: 5%;
+    text-align: justify;
+}
+
+.main-home div button{
+    border: none;
+    border-radius: 25px;
+    background-color: rgb(213, 144, 223);
+    color: #fff;
+    margin: 20px 0;
+    height: 50px;
+    width: 250px;
+    font-size: medium;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+ 
