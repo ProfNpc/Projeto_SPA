@@ -52,4 +52,10 @@
     cursor: pointer;
 }
 
+.main-home div button:hover {
+    cursor: pointer;
+    background-color:rgb(227, 180, 235);
+    color: #fff;
+}
+
  

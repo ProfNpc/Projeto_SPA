@@ -3,7 +3,7 @@ import './styles.css';
 const Contato = () => {
     return(
         <div className='contato'>
-            <h3>Fale com a gente:</h3>
+            <h2>Fale com a gente</h2>
             <form>
                 <input placeholder="Nome Completo"></input>
                 <input placeholder="Email"></input>
